@@ -13,6 +13,7 @@
         android:layout_gravity="center"
         android:text="@string/startThread"
         android:textAllCaps="false"
+        android:clickable="true"
         />
 
 </FrameLayout>
