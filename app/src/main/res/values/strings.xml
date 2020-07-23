@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThreadPractices</string>
+    <string name="toThread">To Thread</string>
+    <string name="startThread">Start Thread</string>
+</resources>
